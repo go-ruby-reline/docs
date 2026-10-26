@@ -47,5 +47,7 @@ go get github.com/go-ruby-reline/reline
 - [Why pure Go](why.md) — why this slice of Ruby lives as a standalone,
   interpreter-independent Go library.
 - [Reference](reference.md) — install, import path and the API reference.
+- [Terminal host](terminal.md) — `ReadKeys`, the ANSI key bindings and the `terminal`
+  package, a line editor on a real terminal (v0.1.0).
 
 Source lives at [github.com/go-ruby-reline/reline](https://github.com/go-ruby-reline/reline).
